@@ -53,7 +53,7 @@ Aqui estão as imagens do site para o projeto:
    ![Tela de login](images/login.png)
 
 4. **Tela do dashboard ADMIN**
-   ![Tela do dashboard](images/admin.png)
+   ![Tela do dashboard](images/dashboard.png)
 
 5. **Tela de detalhes**
    ![Tela do detalhes](images/detalhes.png)
