@@ -1,0 +1,30 @@
+/* Estilos básicos */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #333;
+    color: #fff;
+}
+
+.navbar .nav-link {
+    color: #fff;
+}
+
+.sidebar {
+    background-color: #2c3e50;
+    padding: 20px;
+    color: white;
+    height: 100vh;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
